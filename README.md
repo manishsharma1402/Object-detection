@@ -1,4 +1,4 @@
-Project Name : Object Detection using Tensorflow 
+Project Name :**Object Detection using Tensorflow**
 
 **Introduction**
          
